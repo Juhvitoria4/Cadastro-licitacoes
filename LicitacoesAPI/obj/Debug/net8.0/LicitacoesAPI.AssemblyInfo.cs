@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LicitacoesAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08c5f68fe32376b2a10a635d2ed25812253412fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58f7ed09c66b4bc529938c7c68796a39cbb13bd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LicitacoesAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LicitacoesAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
